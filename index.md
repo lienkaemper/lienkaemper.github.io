@@ -8,7 +8,7 @@
 With Alex Kunin and Zvi Rosen. Combinatorial Theory, 2023.
 
 [Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
-With Amzi Jeffs and Nora Youngs. ArXiv, 2020. 
+With Amzi Jeffs and Nora Youngs. ArXiv, 2020. In revision for Discrete & Computational Geometry. 
 
 
 [Obstructions to convexity in neural codes](https://www.sciencedirect.com/science/article/pii/S0196885816301208)
