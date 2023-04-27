@@ -1,12 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Caitlin Lienkaemper # your name (or website title) here
 logo: "/images/newer_web_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Center for Systems Neuroscience postdocoral fellow at Boston University
   <br><br>
-  Second description 
+  Working in Department of Mathematics and Statistics with Gabriel Ocker
   <br><br>
   
-remote_theme: pages-themes/minimal@v0.2.0
+  
+remote_theme: pages
+-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
