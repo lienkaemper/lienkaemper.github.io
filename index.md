@@ -21,12 +21,18 @@ With Anne Shiu and Zev Woodstock. Advances in Applied Mathematics, 2017.
 With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin. Journal of Mathematical Biology, 2018
 
 ## PhD Thesis 
+---
+
 [Combinatorial geometry of neural codes, neural data analysis, and neural networks](https://etda.libraries.psu.edu/catalog/21234cul434)
 
 ## Recorded Talks 
-[Identifying Low-Rank Structure Preserved by Nonlinear Transformations](https://www.youtube.com/watch?v=gLoJg2vOxLA&t=35s)
-Graduate Student Combinatorics Conference 2021
+---
 
+[Identifying Low-Rank Structure Preserved by Nonlinear Transformations](https://www.youtube.com/watch?v=gLoJg2vOxLA&t=35s)
+Graduate Student Combinatorics Conference, 2021
+
+[Oriented Matroids and Combinatorial Neural Codes](https://video-archive.fields.utoronto.ca/list/speaker/7684-700-126)
+New Mathematical Methods for Neuroscience, Fields Institute, 2020
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
