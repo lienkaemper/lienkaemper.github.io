@@ -4,23 +4,28 @@
 
 ### Convex Neural Codes  
 
+[Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
+With Alex Kunin and Zvi Rosen. Combinatorial Theory, 2023.
+
 [Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
-With Amzi Jeffs and Nora Youngs 
+With Amzi Jeffs and Nora Youngs. ArXiv, 2020. 
 
-
-[Oriented Matroids and Combinatorial Neural Codes](/https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
-With Alex Kunin and Zvi Rosen 
 
 [Obstructions to convexity in neural codes](https://www.sciencedirect.com/science/article/pii/S0196885816301208)
-With Anne Shiu and Zev Woodstock
-
+With Anne Shiu and Zev Woodstock. Advances in Applied Mathematics, 2017.
 
 
 ### Fitness Landscapes 
 
 [The geometry of partial fitness orders and an efficient method for detecting genetic interactions](https://link.springer.com/article/10.1007/s00285-018-1237-7)
-With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin
+With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin. Journal of Mathematical Biology, 2018
 
+## PhD Thesis 
+[Combinatorial geometry of neural codes, neural data analysis, and neural networks](https://etda.libraries.psu.edu/catalog/21234cul434)
+
+## Recorded Talks 
+[Identifying Low-Rank Structure Preserved by Nonlinear Transformations](https://www.youtube.com/watch?v=gLoJg2vOxLA&t=35s)
+Graduate Student Combinatorics Conference 2021
 
 
 ---
