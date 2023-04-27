@@ -1,23 +1,29 @@
-## Portfolio
+## Papers 
 
 ---
 
-### Category Name 1 
+### Convex Neural Codes  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
+With Amzi Jeffs and Nora Youngs 
 
 ---
 
-### Category Name 2
+[Oriented Matroids and Combinatorial Neural Codes](/https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
+With Alex Kunin and Zvi Rosen 
+
+---
+[Obstructions to convexity in neural codes](https://www.sciencedirect.com/science/article/pii/S0196885816301208)
+With Anne Shiu and Zev Woodstock
+
+
+---
+
+### Fitness Landscapes 
+
+[The geometry of partial fitness orders and an efficient method for detecting genetic interactions](https://link.springer.com/article/10.1007/s00285-018-1237-7)
+With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin
+---
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
