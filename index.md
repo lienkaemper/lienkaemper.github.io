@@ -24,6 +24,7 @@ With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin. Journal
 ---
 
 [Combinatorial geometry of neural codes, neural data analysis, and neural networks](https://etda.libraries.psu.edu/catalog/21234cul434)
+Penn State, 2022, advised by Carina Curto. 
 
 ## Recorded Talks 
 ---
