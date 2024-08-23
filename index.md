@@ -1,6 +1,5 @@
 ## Papers 
 
-.---
 ### Neural Network Dynamics 
 
 [CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
