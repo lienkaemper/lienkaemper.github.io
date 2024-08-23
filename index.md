@@ -12,8 +12,6 @@ With Amy Monasterio, Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin
 
 ### Convex Neural Codes  
 
-[Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
-With Alex Kunin and Zvi Rosen. Combinatorial Theory, 2023.
 
 [Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
 With Alex Kunin and Zvi Rosen. Combinatorial Theory, 2023.
