@@ -1,5 +1,9 @@
 ## Papers 
 ---
+### Insect olfaction
+
+[When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
+With Meg A. Younger and Gabriel K. Ocker, Preprint, 2025
 
 ### Neural Network Dynamics 
 
