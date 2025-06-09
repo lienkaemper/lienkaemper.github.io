@@ -1,14 +1,19 @@
 ## Papers 
 ---
+
+### Neural Network Dynamics 
+[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) With Gabriel K. Ocker. Preprint, 2025
+
+
+[CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
+With Amy Monasterio, Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin B. Scott. Preprint, 2024.
+
+
 ### Insect olfaction
 
 [When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
 With Meg A. Younger and Gabriel K. Ocker, Preprint, 2025
 
-### Neural Network Dynamics 
-
-[CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
-With Amy Monasterio, Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin B. Scott. Preprint, 2024.
 
 ### Estimating Dimensionality of Neural Data
 
