@@ -2,17 +2,17 @@
 ---
 
 ### Neural Network Dynamics 
-[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) With Gabriel K. Ocker. Preprint, 2025
+[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker. Preprint, 2025
 
 
 [CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
-With Amy Monasterio, Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin B. Scott. Preprint, 2024.
+Amy Monasterio, C.L., Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin B. Scott. Preprint, 2024.
 
 
 ### Insect olfaction
 
 [When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
-With Meg A. Younger and Gabriel K. Ocker, Preprint, 2025
+C.L., Meg A. Younger, and Gabriel K. Ocker, Preprint, 2025
 
 
 ### Estimating Dimensionality of Neural Data
@@ -22,21 +22,20 @@ With Meg A. Younger and Gabriel K. Ocker, Preprint, 2025
 ### Convex Neural Codes  
 
 
-[Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
-With Alex Kunin and Zvi Rosen. Combinatorial Theory, 2023.
-
 [Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
-With Amzi Jeffs and Nora Youngs. ArXiv, 2020. In revision for Discrete & Computational Geometry. 
+Amzi Jeffs, C.L., and Nora Youngs. To appear in Discrete & Computational Geometry, 2025
 
+[Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
+Alex Kunin, C.L., and Zvi Rosen. Combinatorial Theory, 2023.
 
 [Obstructions to convexity in neural codes](https://www.sciencedirect.com/science/article/pii/S0196885816301208)
-With Anne Shiu and Zev Woodstock. Advances in Applied Mathematics, 2017.
+ C.L., Anne Shiu and Zev Woodstock. Advances in Applied Mathematics, 2017.
 
 
 ### Fitness Landscapes 
 
 [The geometry of partial fitness orders and an efficient method for detecting genetic interactions](https://link.springer.com/article/10.1007/s00285-018-1237-7)
-With Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin. Journal of Mathematical Biology, 2018
+ C.L., Lisa Lamberti, Dawn Drain, Niko Beerenwinkel, and Alex Gavryushkin. Journal of Mathematical Biology, 2018
 
 ## PhD Thesis 
 ---
