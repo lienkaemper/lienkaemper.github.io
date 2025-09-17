@@ -1,18 +1,18 @@
 ## Papers 
 ---
 
+### Insect olfaction
+
+[When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
+C.L., Meg A. Younger, and Gabriel K. Ocker. In press, PNAS,  2025
+
 ### Neural Network Dynamics 
-[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker. Preprint, 2025
+[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker. In press, PRX Life, 2025
 
 
 [CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
 Amy Monasterio, C.L., Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjamin B. Scott. Preprint, 2024.
 
-
-### Insect olfaction
-
-[When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
-C.L., Meg A. Younger, and Gabriel K. Ocker, Preprint, 2025
 
 
 ### Estimating Dimensionality of Neural Data
@@ -23,7 +23,7 @@ C.L., Meg A. Younger, and Gabriel K. Ocker, Preprint, 2025
 
 
 [Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
-Amzi Jeffs, C.L., and Nora Youngs. To appear in Discrete & Computational Geometry, 2025
+Amzi Jeffs, C.L., and Nora Youngs. In press, Discrete & Computational Geometry, 2025
 
 [Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
 Alex Kunin, C.L., and Zvi Rosen. Combinatorial Theory, 2023.
