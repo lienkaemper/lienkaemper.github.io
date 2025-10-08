@@ -53,5 +53,11 @@ Graduate Student Combinatorics Conference, 2021
 New Mathematical Methods for Neuroscience, Fields Institute, 2020
 
 ---
+
+## Reccommended Reading 
+
+[Francis Su's blog post The Lesson of Grace in Teaching](https://www.francissu.com/post/the-lesson-of-grace-in-teaching)
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
