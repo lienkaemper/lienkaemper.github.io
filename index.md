@@ -3,9 +3,8 @@
 
 ### Insect olfaction
 
-[When non-canonical olfaction is optimal](https://www.biorxiv.org/content/10.1101/2025.02.27.640624v1.abstract)
-C.L., Meg A. Younger, and Gabriel K. Ocker. In press, PNAS,  2025
-
+[When non-canonical olfaction is optimal](https://www.pnas.org/doi/10.1073/pnas.2508439122)
+C.L., Meg A. Younger, and Gabriel K. Ocker. PNAS, 2025. 
 ### Neural Network Dynamics 
 [Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker. In press, PRX Life, 2025
 
