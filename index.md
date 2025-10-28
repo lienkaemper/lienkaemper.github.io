@@ -21,8 +21,8 @@ Amy Monasterio, C.L., Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjami
 ### Convex Neural Codes  
 
 
-[Order Forcing in Neural Codes](https://arxiv.org/pdf/2011.03572.pdf)
-Amzi Jeffs, C.L., and Nora Youngs. In press, Discrete & Computational Geometry, 2025
+[Order Forcing in Neural Codes](https://link.springer.com/article/10.1007/s00454-025-00760-3)
+Amzi Jeffs, C.L., and Nora Youngs. Discrete & Computational Geometry, 2025
 
 [Oriented Matroids and Combinatorial Neural Codes](https://escholarship.org/content/qt00c6r759/qt00c6r759_noSplash_60eae1787588d8c120d9af0dfb3ddeca.pdf?t=rricr6)
 Alex Kunin, C.L., and Zvi Rosen. Combinatorial Theory, 2023.
