@@ -16,7 +16,7 @@ Amy Monasterio, C.L., Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjami
 
 ### Estimating Dimensionality of Neural Data
 
-[Using oriented matroids to find low rank structure in presence of nonlinearity](https://arxiv.org/abs/2312.17365) Preprint, 2023
+[Using oriented matroids to find low rank structure in presence of nonlinearity](https://arxiv.org/abs/2312.17365)  SIAM J. Discrete Math (to appear), 2026
 
 ### Convex Neural Codes  
 
