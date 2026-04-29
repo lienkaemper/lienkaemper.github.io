@@ -6,7 +6,7 @@
 [When non-canonical olfaction is optimal](https://www.pnas.org/doi/10.1073/pnas.2508439122)
 C.L., Meg A. Younger, and Gabriel K. Ocker. PNAS, 2025. 
 ### Neural Network Dynamics 
-[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker. In press, PRX Life, 2025
+[Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks](https://arxiv.org/abs/2506.06234) C.L., Gabriel K. Ocker.  PRX Life, 2025
 
 
 [CA1 engram cell dynamics before and after learning](https://www.biorxiv.org/content/10.1101/2024.04.16.589790v1.abstract)
@@ -16,7 +16,7 @@ Amy Monasterio, C.L., Siria Coello, Gabriel K. Ocker, Steve Ramirez, and Benjami
 
 ### Estimating Dimensionality of Neural Data
 
-[Using oriented matroids to find low rank structure in presence of nonlinearity](https://arxiv.org/abs/2312.17365)  SIAM J. Discrete Math (to appear), 2026
+[Using oriented matroids to find low rank structure in presence of nonlinearity](https://arxiv.org/abs/2312.17365)  C.L, SIAM J. Discrete Math (to appear), 2026
 
 ### Convex Neural Codes  
 
